@@ -1,5 +1,5 @@
 This is a file, obviously. I'm learning how to use a repository, and this is something I added to this line! :D
-This is the second line of my file.
+Reading week is next week!!
 
 This might not seem exciting, but isn't it exciting to learn something new?
 Unicorns and rainbows are awesome! :D
